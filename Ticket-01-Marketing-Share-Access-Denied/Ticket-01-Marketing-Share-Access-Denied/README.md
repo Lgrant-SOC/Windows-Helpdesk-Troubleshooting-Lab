@@ -62,6 +62,12 @@ If access remained unsuccessful after verifying the user's account and permissio
 
 <img width="3024" height="2517" alt="image" src="https://github.com/user-attachments/assets/bcf449c3-c61b-4c0b-9974-a6503f9a7e29" />
 
+### Supporting Evidence #6 — Active Directory Account Settings
+
+<img width="3024" height="2357" alt="image" src="https://github.com/user-attachments/assets/42772989-cdce-4fb2-add9-08318b81dafc" />
+
+
+
 
 ## Skills Demonstrated
 
