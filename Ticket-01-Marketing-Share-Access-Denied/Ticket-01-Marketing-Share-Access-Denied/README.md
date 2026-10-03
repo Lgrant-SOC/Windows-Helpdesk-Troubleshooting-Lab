@@ -39,23 +39,29 @@ If access remained unsuccessful after verifying the user's account and permissio
 
 ### Evidence #1 — Marketing Department Share
 
-![Marketing Department Share](evidence/01-marketing-share.png)
+<img width="3024" height="2920" alt="image" src="https://github.com/user-attachments/assets/df60a10f-8951-4bea-b081-e0e0e97cf6ef" />
+
+
 
 ### Evidence #2 — Active Directory User and Group
 
-![Active Directory User and Group](evidence/02-active-directory-user-group.png)
+<img width="2351" height="2547" alt="image" src="https://github.com/user-attachments/assets/becba39b-62e5-4394-8b5c-2b3b52e2e8ee" />
+
 
 ### Evidence #3 — NTFS Permissions
 
-![NTFS Permissions](evidence/03-ntfs-permissions.png)
+<img width="3024" height="3302" alt="image" src="https://github.com/user-attachments/assets/10aecbd6-3602-4284-ac9a-3dfcc4772a92" />
+
 
 ### Evidence #4 — Share Permissions
 
-![Share Permissions](evidence/04-share-permissions.png)
+<img width="3024" height="3375" alt="image" src="https://github.com/user-attachments/assets/f9395dd1-6d69-48b5-8b66-ef1035b43cee" />
+
 
 ### Evidence #5 — Successful File Creation
 
-![Successful File Creation](evidence/05-successful-file-creation.png)
+<img width="3024" height="2517" alt="image" src="https://github.com/user-attachments/assets/bcf449c3-c61b-4c0b-9974-a6503f9a7e29" />
+
 
 ## Skills Demonstrated
 
