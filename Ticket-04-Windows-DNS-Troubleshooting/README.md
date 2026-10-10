@@ -73,7 +73,8 @@ The goal was to correct the DNS configuration without changing the workstation's
 
 Ran the original DNS test again and verified that hostname resolution was restored.
 
-![Successful DNS Resolution](IMG_5303.jpeg)
+![Successful DNS Resolution]<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/0a657d65-11e6-45f6-9989-6098154ef1ec" />
+
 
 The workstation successfully resolved `google.com`.
 
