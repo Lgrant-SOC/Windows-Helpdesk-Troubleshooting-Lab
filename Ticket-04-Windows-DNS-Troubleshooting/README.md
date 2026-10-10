@@ -75,6 +75,9 @@ Ran the original DNS test again and verified that hostname resolution was restor
 
 ![Successful DNS Resolution]<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/0a657d65-11e6-45f6-9989-6098154ef1ec" />
 
+<img width="3024" height="2624" alt="image" src="https://github.com/user-attachments/assets/1b2da86f-5003-4482-8e5f-c914d7d131f3" />
+
+
 
 The workstation successfully resolved `google.com`.
 
